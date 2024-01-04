@@ -55,7 +55,7 @@ HTTP 요청 메시지를 통해 클라이언트에서 서버로 데이터를 전
 예) 검색, 필터, 페이징등에서 많이 사용하는 방식
 ```
 
-`POST` - HTML Form**
+`POST` - HTML Form
 ```
 content-type: application/x-www-form-urlencoded
 메시지 바디에 쿼리 파리미터 형식으로 전달 username=hello&age=20
@@ -69,4 +69,5 @@ HTTP API에서 주로 사용, JSON, XML, TEXT
 데이터 형식은 주로 JSON 사용 POST, PUT, PATCH
 ```
 
+<hr>
 
