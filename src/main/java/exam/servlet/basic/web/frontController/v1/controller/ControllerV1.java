@@ -1,4 +1,4 @@
-package exam.servlet.basic.web.frontController.v1;
+package exam.servlet.basic.web.frontController.v1.controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
